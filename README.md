@@ -1,5 +1,5 @@
-# create-venv-and-install-dep
+# create-env-and-install-dep
 
-1st verify that "requirements.txt" include the requirements listed
+1 - Verify that "requirements.txt" include the requirements listed for the project
 
-2nd run "create-env-and-install-dep.bat"
+2 - run "create-env-and-install-dep.bat" in order to create a Virtual Environment named "env" and install the dependencies included in "requirements.txt"
